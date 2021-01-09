@@ -53,6 +53,8 @@ MIT
 
 - Muhammet Mert POLAT
 - [mertpolat.com.tr]
+- Alper TEMEL
+- [alpertemel.com]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -63,4 +65,5 @@ MIT
    [SweetAlert]: <https://sweetalert2.github.io/>
    [jQuery]: <https://jquery.com/>
    [mertpolat.com.tr]: <https://mertpolat.com.tr>
+   [alpertemel.com]: <http://alpertemel.com>
    [here]: <codepen.io/dev_loop/pen/vYYxvbz>
