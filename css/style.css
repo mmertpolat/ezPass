@@ -1,0 +1,38 @@
+.pass_show{position: relative}
+
+.pass_show .ptxt {
+
+    position: absolute;
+
+    top: 50%;
+
+    right: 10px;
+
+    z-index: 1;
+
+    color: black;
+
+    margin-top: -12px;
+
+    cursor: pointer;
+
+    transition: .3s ease all;
+
+}
+
+.pass_show .ptxt:hover {
+    color: #007BFF;
+}
+
+.errspan {
+    float: right;
+    margin-right: 2.5em;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.errspan:hover {
+    color:#007BFF;
+}

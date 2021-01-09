@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b402dee-926f-486f-9ac0-556f2df2cf5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ifHp0AZAGnb0cn4qIpphxBp9um" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b402dee-926f-486f-9ac0-556f2df2cf5e" name="Default Changelist" comment="" />
+      <created>1602291904756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602291904756</updated>
+      <workItem from="1602291905931" duration="1884000" />
+      <workItem from="1602342043975" duration="8574000" />
+      <workItem from="1602375624327" duration="5196000" />
+      <workItem from="1602426452186" duration="11860000" />
+      <workItem from="1602459426383" duration="4489000" />
+      <workItem from="1602514833996" duration="6174000" />
+      <workItem from="1602889465614" duration="5812000" />
+      <workItem from="1602942883939" duration="3728000" />
+      <workItem from="1602955745609" duration="6951000" />
+      <workItem from="1602981876370" duration="105000" />
+      <workItem from="1602982004964" duration="4535000" />
+      <workItem from="1603033403128" duration="2466000" />
+      <workItem from="1603038622064" duration="980000" />
+      <workItem from="1603057783550" duration="3184000" />
+      <workItem from="1603122015095" duration="1387000" />
+      <workItem from="1603321014375" duration="1945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1602343255518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602343255518" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603058281971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603058281971" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602345931143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602345931143" />
+  </component>
+</project>
