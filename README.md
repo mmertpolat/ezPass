@@ -66,4 +66,4 @@ MIT
    [jQuery]: <https://jquery.com/>
    [mertpolat.com.tr]: <https://mertpolat.com.tr>
    [alpertemel.com]: <http://alpertemel.com>
-   [here]: <codepen.io/dev_loop/pen/vYYxvbz>
+   [here]: <http://codepen.io/dev_loop/pen/vYYxvbz>
