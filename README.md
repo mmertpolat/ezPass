@@ -49,7 +49,7 @@ License
 
 MIT
 
-### Developer
+### Developers
 
 - Muhammet Mert POLAT
 - [mertpolat.com.tr]
